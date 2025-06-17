@@ -7,6 +7,7 @@ Frontend Developer
 I have started programming about half a year ago, starting with html, css, and javascript. After getting familiar with that for a couple of months, I moved to understanding React, NextJs, and more importantly, Typscript. Along with these, I've learned tools that helped to increase productivity. However, on the side I like to work on projects with those said tools or bare bones so I can learn and undestand how they work, ultimately, bettering my skills and knowledge with programming.
 
 * 🌍  I'm based in Washington, USA
+* 🖥️  Feel free to check out my E-portfolio: https://my-e-portfolio-mu.vercel.app/
 * ✉️  You can contact me at [1tenletters0@gmail.com](mailto:1tenletters0@gmail.com)
 * 🧠  I'm learning ThreeJs
 
